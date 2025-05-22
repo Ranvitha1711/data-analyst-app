@@ -194,4 +194,4 @@ if show_analysis:
 
 # Footer
 st.markdown("---")
-st.caption()
+st.caption("By Ranvitha")
