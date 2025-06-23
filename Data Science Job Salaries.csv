@@ -1,0 +1,55 @@
+Row Labels,Average of salary_in_usd,,,,,,,,,,,,,,
+EN,61643.31818,,,,,,,,,,,,,,
+EX,199392.0385,,,,,,,,,,,,,,
+MI,87996.05634,,,Row Labels,Average of salary_in_usd,,,,,,,,,,
+SE,138617.2929,,,Data Analytics Lead,405000,,,,,,,,,,
+Grand Total,112297.8699,,,Principal Data Engineer,328333.3333,,,,,,,,,,
+,,,,Financial Data Analyst,275000,,,,,,,,,,
+,,,,Principal Data Scientist,215242.4286,,,,,,,,,,
+,,,,Director of Data Science,195074,,,,,,,,,,
+,,,,Data Architect,177873.9091,,,,Row Labels,Count of job_title,,,,,
+,,,,Applied Data Scientist,175655,,,,CT,5,,,,,
+,,,,Analytics Engineer,175000,,,,FL,4,,,,,
+,,,,Data Specialist,165000,,,,FT,588,,,Row Labels,Count of job_title,Average of salary_in_usd
+,,,,Head of Data,160162.6,,,,PT,10,,,Hybrid,99,80823.0303
+,,,,Machine Learning Scientist,158412.5,,,,Grand Total,607,,,Onsite,127,106354.622
+,,,,Data Science Manager,158328.5,,,,,,,,Remote,381,122457.4541
+,,,,Director of Data Engineering,156738,,,,,,,,Grand Total,607,112297.8699
+,,,,Head of Data Science,146718.75,,Row Labels,Count of job_title,,,,,,,
+,,,,Applied Machine Learning Scientist,142068.75,,CT,5,,,,,,,
+,,,,Lead Data Engineer,139724.5,,FL,4,,,,,,,
+,,,,Data Analytics Manager,127134.2857,,FT,588,,,,,,,
+,,,,Cloud Data Engineer,124647,,PT,10,,,,,,,
+,,,,Data Engineering Manager,123227.2,,Grand Total,607,,,,,,,
+,,,,Principal Data Analyst,122500,,,,,,,,,,
+,,,,ML Engineer,117504,,,,,,,,,,
+,,,,Machine Learning Manager,117104,,,,,,,,,,
+,,,,Lead Data Scientist,115190,,,,,,,,,,
+,,,,Data Engineer,112725,,,,,,,,,,
+,,,,Research Scientist,109019.5,,,,,,,,,,
+,,,,Data Scientist,108187.8322,,,,,,,,,,
+,,,,Computer Vision Software Engineer,105248.6667,,,,,,,,,,
+,,,,Staff Data Scientist,105000,,,,,salary_in_usd,(All),,,,
+,,,,Machine Learning Engineer,104880.1463,,,,,,,,,,
+,,,,Machine Learning Infrastructure Engineer,101145,,,,,Row Labels,Count of job_title,Average of salary_in_usd,,,
+,,,,Big Data Architect,99703,,,,,L,198,119242.9949,,,
+,,,,Data Analyst,92893.06186,,,,,M,326,116905.4663,,,
+,,,,Lead Data Analyst,92203,,,,,S,83,77632.6747,,,
+,,,,Marketing Data Analyst,88654,,,,,Grand Total,607,112297.8699,,,
+,,,,Lead Machine Learning Engineer,87932,,,,,,,,,,
+,,,,Machine Learning Developer,85860.66667,,,,,,,,,Row Labels,Count of job_title
+,,,,Head of Machine Learning,79039,,,,,,,,,CT,5
+,,,,Business Data Analyst,76691.2,,,,,,,,,FL,4
+,,,,Data Science Engineer,75803.33333,,,,,,,,,FT,588
+,,,,BI Data Analyst,74755.16667,,,,,,,,,PT,10
+,,,,Data Science Consultant,69420.71429,,,,,,,,,Grand Total,607
+,,,,AI Scientist,66135.57143,,,,,,,,,,
+,,,,Data Analytics Engineer,64799.25,,,,,,,,,,
+,,,,Finance Data Analyst,61896,,,,,,,,,,
+,,,,ETL Developer,54957,,,,,,,,,,
+,,,,Big Data Engineer,51974,,,,,,,,,,
+,,,,Computer Vision Engineer,44419.33333,,,,,,,,,,
+,,,,NLP Engineer,37236,,,,,,,,,,
+,,,,Product Data Analyst,13036,,,,,,,,,,
+,,,,3D Computer Vision Researcher,5409,,,,,,,,,,
+,,,,Grand Total,112297.8699,,,,,,,,,,
