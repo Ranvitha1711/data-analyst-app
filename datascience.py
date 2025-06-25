@@ -34,10 +34,10 @@ if 'job_title' in data.columns:
 
     st.subheader(f"💼 Salary Distribution for '{job_filter}'")
     if not filtered_data.empty:
-st.markdown("---")
-st.caption("By MARAM RANVITHA")
         st.bar_chart(filtered_data['salary_in_usd'])
     else:
         st.warning("⚠️ No data found for this job title.")
 else:
     st.error("❌ Column 'job_title' not found in the dataset.")
+st.markdown("---")
+st.caption("By MARAM RANVITHA")
